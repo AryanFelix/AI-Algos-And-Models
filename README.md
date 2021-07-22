@@ -7,6 +7,7 @@ Templates that are executed on sample data provided in the respective folders. M
 2. Make edits to said branch.
 3. Follow the file conventions and add dataset.
 4. Send merge request.
+5. Update `README.md`
 
 ## Links
 * SciKit-Learn
@@ -17,6 +18,8 @@ Templates that are executed on sample data provided in the respective folders. M
 
     https://www.csie.ntu.edu.tw/~cjlin/libsvm/
 
+## Contributers
+* [Aryan Felix](https://github.com/AryanFelix)
 
 ## License
 * MIT License
