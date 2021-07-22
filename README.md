@@ -1,4 +1,4 @@
-# Machine Learning Model Templates
+# AI Algorithms and Models - Templates
 
 A collection of executions/templates of famous Data Science, Machine Learning and Deep Learning. Templates that are executed on sample data provided in the respective folders. More models to be added soon. Contributers are welcome.
 
